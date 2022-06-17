@@ -1,2 +1,0 @@
-## the art of testing
-
